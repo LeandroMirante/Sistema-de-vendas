@@ -14,4 +14,4 @@ Próximas atualizações:
 
 O sistema pode ser acessado e testado através deste link: http://leandromirantesistema.infinityfreeapp.com
 
-Segue uma apresentação em video do sistema:
+Segue uma apresentação em video do sistema: https://youtu.be/tH_pAu3bDOo
