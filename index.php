@@ -83,11 +83,11 @@
               $totalPendente = 0;
               $total = 0;
               foreach($vendas as $indice => $venda){
-                $total += $venda->valor;;
+                $total += $venda->valor * $venda->quantidade;
                 if($venda->status == 'Pago'){
-                  $totalPaga += $venda->valor;
+                  $totalPaga += $venda->valor * $venda->quantidade;
                 }else if($venda->status == 'Pendente'){
-                  $totalPendente +=  $venda->valor;
+                  $totalPendente +=  $venda->valor * $venda->quantidade;
                 }
               }
             ?>
