@@ -8,9 +8,9 @@ Detalhes do sistema:
 - Na listagem de estoque, é possível ver quanto existe de mercadoria em termos de preço de compra e preço de venda.
 
 Próximas atualizações: 
--Aba Financeiro.
--Adicionar itens ao estoque.
--Log de registros que irá mostrar todas as alterações feitas no sistema.
+- Aba Financeiro.
+- Adicionar itens ao estoque.
+- Log de registros que irá mostrar todas as alterações feitas no sistema.
 
 O sistema pode ser acessado e testado por este link: http://leandromirantesistema.infinityfreeapp.com
 
