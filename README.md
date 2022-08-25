@@ -9,7 +9,7 @@ Detalhes do sistema:
 
 Próximas atualizações: 
 - Aba Financeiro.
-- Adicionar itens ao estoque.
+- Compra de mercardorias.
 - Log de registros que irá mostrar todas as alterações feitas no sistema.
 
 O sistema pode ser acessado e testado através deste link: http://leandromirantesistema.infinityfreeapp.com
