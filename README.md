@@ -12,6 +12,6 @@ Próximas atualizações:
 - Adicionar itens ao estoque.
 - Log de registros que irá mostrar todas as alterações feitas no sistema.
 
-O sistema pode ser acessado e testado por este link: http://leandromirantesistema.infinityfreeapp.com
+O sistema pode ser acessado e testado através deste link: http://leandromirantesistema.infinityfreeapp.com
 
 Segue uma apresentação em video do sistema:
